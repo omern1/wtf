@@ -1,0 +1,7 @@
+- [ ] Fuzzy searching based on levenstien distance on all fields
+- [ ] Parse and view PE files
+- [ ] Parse and view ELF files
+- [ ] Symbolize PE files
+- [ ] Symbolize ELF files
+- [ ] Maybe disassemble text sections?
+- [ ] Hex viewer?
